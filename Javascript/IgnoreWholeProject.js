@@ -9,10 +9,9 @@ const apiKey = keyPrompt["API Key"];
 
 //based on file generated from the v3 rest api call to /issues
 const filename = "RestaurantControlCenterTeam_Issues.json";
-const projectGUID = "6adcf75f-a367-4ece-a8b1-9888b496b98f";
-const orgGUID = "01f5136e-9c52-4fee-b501-dc81270316ca";
-const ignoreReason =
-  "Restaurant ORG unable to fix now due to resource constraints.  ----To revist ----";
+const projectGUID = "";
+const orgGUID = "";
+const ignoreReason = "Ignore Reason ---";
 const ignoreUntil = "2024-04-08";
 
 const basepathv1 = "https://api.snyk.io/v1";
