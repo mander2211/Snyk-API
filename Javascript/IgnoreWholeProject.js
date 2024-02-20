@@ -1,7 +1,6 @@
-import fetch from "node-fetch";
 import prompt from "prompt";
 import fs from "node:fs/promises";
-import { setTimeout as sleep } from "node:timers/promises";
+import { Snyk } from "./classes/Snyk.js";
 
 //API Key
 const keyPrompt = await prompt.get("API Key");
@@ -14,7 +13,7 @@ const orgGUID = "";
 const ignoreReason = "Ignore Reason ---";
 const ignoreUntil = "2024-04-08";
 
-const basepathv1 = "https://api.snyk.io/v1";
+const conn = new Snyk(apiKey);
 
 const ignore = async () => {
   try {
@@ -30,31 +29,14 @@ const ignore = async () => {
         count++;
         let problemID = orgs.data[i].attributes.problems[0].id;
         console.log(problemID);
-        let response;
-        while (true) {
-          response = await fetch(
-            `${basepathv1}/org/${orgGUID}/project/${projectGUID}/ignore/${problemID}`,
-            {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-                Authorization: `token ${apiKey}`,
-              },
-              body: JSON.stringify({
-                reason: ignoreReason,
-                reasonType: "temporary-ignore",
-                disregardIfFixable: false,
-                expires: ignoreUntil,
-              }),
-            }
-          );
-          sleep(250);
-          if (response.ok) {
-            break;
-          } else {
-            console.log(response.status);
-          }
-        }
+
+        await conn.PostIgnore({
+          reason: ignoreReason,
+          ignoreUntil: ignoreUntil,
+          orgGuid: orgGUID,
+          projectGuid: projectGUID,
+          problemID: problemID,
+        });
       }
     }
     console.log(count);
