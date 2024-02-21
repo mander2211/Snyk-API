@@ -1,6 +1,6 @@
 import prompt from "prompt";
 import fs from "node:fs/promises";
-import { Snyk } from "./classes/Snyk.js";
+import { Snyk } from "./classes/SnykUtil.js";
 
 //API Key
 const keyPrompt = await prompt.get("API Key");
@@ -16,5 +16,5 @@ const ignoreUntil = "2024-04-08";
 //snyk connection object
 const conn = new Snyk(apiKey);
 
-//await conn.BuildOrgsAndProjectsFile();
+await conn.BuildOrgsAndProjectsFile();
 await conn.GetAllVulnerabilities();

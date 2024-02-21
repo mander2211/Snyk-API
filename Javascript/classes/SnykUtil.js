@@ -182,6 +182,38 @@ class Snyk {
     //Generic printout of all issues in the current report
     await fs.writeFile("AllVulns.json", JSON.stringify(issuesJson, null, 4));
   }
+
+  //not yet tested
+  async GetOrgIssues(orgGuid) {
+    let response;
+    while (true) {
+      response = await fetch(
+        `${Snyk.BASE_PATH_v3}/rest/orgs/${orgGuid}/issues?version=2023-11-27~beta&limit=100`,
+        {
+          method: "GET",
+          headers: this.headers,
+        }
+      );
+
+      if (response.ok) break;
+    }
+    let orgIssues = await response.json();
+
+    let newData;
+    while ("next" in orgIssues.links) {
+      while (true) {
+        newData = await fetch(`${Snyk.BASE_PATH_v3}${projectsJson.links.next}`, {
+          method: "GET",
+          headers: this.headers,
+        });
+        if (newData.ok) break;
+      }
+
+      let tempJson = await newData.json();
+      orgIssues.data.push(...tempJson.data);
+    }
+    return orgIssues;
+  }
 }
 
 export { Snyk };
