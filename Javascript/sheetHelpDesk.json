@@ -1,0 +1,3133 @@
+{
+  "!ref": "A1:I43",
+  "B1": {
+    "t": "s",
+    "v": "Org",
+    "r": "<t>Org</t>",
+    "h": "Org",
+    "w": "Org"
+  },
+  "C1": {
+    "t": "s",
+    "v": "Project",
+    "r": "<t>Project</t>",
+    "h": "Project",
+    "w": "Project"
+  },
+  "D1": {
+    "t": "s",
+    "v": "Issue",
+    "r": "<t>Issue</t>",
+    "h": "Issue",
+    "w": "Issue"
+  },
+  "E1": {
+    "t": "s",
+    "v": "Issue_Key",
+    "r": "<t>Issue_Key</t>",
+    "h": "Issue_Key",
+    "w": "Issue_Key"
+  },
+  "F1": {
+    "t": "s",
+    "v": "Ignore_Reason",
+    "r": "<t>Ignore_Reason</t>",
+    "h": "Ignore_Reason",
+    "w": "Ignore_Reason"
+  },
+  "G1": {
+    "t": "s",
+    "v": "Created",
+    "r": "<t>Created</t>",
+    "h": "Created",
+    "w": "Created"
+  },
+  "H1": {
+    "t": "s",
+    "v": "Created_By",
+    "r": "<t>Created_By</t>",
+    "h": "Created_By",
+    "w": "Created_By"
+  },
+  "I1": {
+    "t": "s",
+    "v": "HTTP_Link",
+    "r": "<t>HTTP_Link</t>",
+    "h": "HTTP_Link",
+    "w": "HTTP_Link"
+  },
+  "A2": {
+    "t": "n",
+    "v": 0,
+    "w": "0"
+  },
+  "B2": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C2": {
+    "t": "s",
+    "v": "247663de-9877-48cb-894f-88922f6d26c9",
+    "r": "<t>247663de-9877-48cb-894f-88922f6d26c9</t>",
+    "h": "247663de-9877-48cb-894f-88922f6d26c9",
+    "w": "247663de-9877-48cb-894f-88922f6d26c9"
+  },
+  "D2": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E2": {
+    "t": "s",
+    "v": "SNYK-DOTNET-RESTSHARP-1316436",
+    "r": "<t>SNYK-DOTNET-RESTSHARP-1316436</t>",
+    "h": "SNYK-DOTNET-RESTSHARP-1316436",
+    "w": "SNYK-DOTNET-RESTSHARP-1316436"
+  },
+  "F2": {
+    "t": "s",
+    "v": "Risk ticket entered with Slade Burroughs in OneTrust: Risk #3198 ",
+    "r": "<t xml:space=\"preserve\">Risk ticket entered with Slade Burroughs in OneTrust: Risk #3198 </t>",
+    "h": "Risk ticket entered with Slade Burroughs in OneTrust: Risk #3198 ",
+    "w": "Risk ticket entered with Slade Burroughs in OneTrust: Risk #3198 "
+  },
+  "G2": {
+    "t": "s",
+    "v": "2022-11-21T15:28:37.401Z",
+    "r": "<t>2022-11-21T15:28:37.401Z</t>",
+    "h": "2022-11-21T15:28:37.401Z",
+    "w": "2022-11-21T15:28:37.401Z"
+  },
+  "H2": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I2": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-RESTSHARP-1316436",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-RESTSHARP-1316436</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-RESTSHARP-1316436",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-RESTSHARP-1316436",
+    "l": {
+      "ref": "I2",
+      "id": "rId1",
+      "location": "issue-SNYK-DOTNET-RESTSHARP-1316436",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-RESTSHARP-1316436",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9",
+        "Id": "rId1",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A3": {
+    "t": "n",
+    "v": 1,
+    "w": "1"
+  },
+  "B3": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C3": {
+    "t": "s",
+    "v": "247663de-9877-48cb-894f-88922f6d26c9",
+    "r": "<t>247663de-9877-48cb-894f-88922f6d26c9</t>",
+    "h": "247663de-9877-48cb-894f-88922f6d26c9",
+    "w": "247663de-9877-48cb-894f-88922f6d26c9"
+  },
+  "D3": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E3": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SHARPCOMPRESS-1585664",
+    "r": "<t>SNYK-DOTNET-SHARPCOMPRESS-1585664</t>",
+    "h": "SNYK-DOTNET-SHARPCOMPRESS-1585664",
+    "w": "SNYK-DOTNET-SHARPCOMPRESS-1585664"
+  },
+  "F3": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G3": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H3": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I3": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-1585664",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-1585664</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-1585664",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-1585664",
+    "l": {
+      "ref": "I3",
+      "id": "rId2",
+      "location": "issue-SNYK-DOTNET-SHARPCOMPRESS-1585664",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-1585664",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9",
+        "Id": "rId2",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A4": {
+    "t": "n",
+    "v": 2,
+    "w": "2"
+  },
+  "B4": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C4": {
+    "t": "s",
+    "v": "247663de-9877-48cb-894f-88922f6d26c9",
+    "r": "<t>247663de-9877-48cb-894f-88922f6d26c9</t>",
+    "h": "247663de-9877-48cb-894f-88922f6d26c9",
+    "w": "247663de-9877-48cb-894f-88922f6d26c9"
+  },
+  "D4": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E4": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SHARPCOMPRESS-60246",
+    "r": "<t>SNYK-DOTNET-SHARPCOMPRESS-60246</t>",
+    "h": "SNYK-DOTNET-SHARPCOMPRESS-60246",
+    "w": "SNYK-DOTNET-SHARPCOMPRESS-60246"
+  },
+  "F4": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G4": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H4": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I4": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-60246",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-60246</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-60246",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-60246",
+    "l": {
+      "ref": "I4",
+      "id": "rId3",
+      "location": "issue-SNYK-DOTNET-SHARPCOMPRESS-60246",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9#issue-SNYK-DOTNET-SHARPCOMPRESS-60246",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/247663de-9877-48cb-894f-88922f6d26c9",
+        "Id": "rId3",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A5": {
+    "t": "n",
+    "v": 3,
+    "w": "3"
+  },
+  "B5": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C5": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D5": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E5": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SSHNET-2849638",
+    "r": "<t>SNYK-DOTNET-SSHNET-2849638</t>",
+    "h": "SNYK-DOTNET-SSHNET-2849638",
+    "w": "SNYK-DOTNET-SSHNET-2849638"
+  },
+  "F5": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G5": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H5": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I5": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SSHNET-2849638",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SSHNET-2849638</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SSHNET-2849638",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SSHNET-2849638",
+    "l": {
+      "ref": "I5",
+      "id": "rId4",
+      "location": "issue-SNYK-DOTNET-SSHNET-2849638",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SSHNET-2849638",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId4",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A6": {
+    "t": "n",
+    "v": 4,
+    "w": "4"
+  },
+  "B6": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C6": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D6": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E6": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60045</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60045"
+  },
+  "F6": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G6": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H6": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I6": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "l": {
+      "ref": "I6",
+      "id": "rId5",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId5",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A7": {
+    "t": "n",
+    "v": 5,
+    "w": "5"
+  },
+  "B7": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C7": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D7": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E7": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60046</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60046"
+  },
+  "F7": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G7": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H7": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I7": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "l": {
+      "ref": "I7",
+      "id": "rId6",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId6",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A8": {
+    "t": "n",
+    "v": 6,
+    "w": "6"
+  },
+  "B8": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C8": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D8": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E8": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60047</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60047"
+  },
+  "F8": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G8": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H8": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I8": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "l": {
+      "ref": "I8",
+      "id": "rId7",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId7",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A9": {
+    "t": "n",
+    "v": 7,
+    "w": "7"
+  },
+  "B9": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C9": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D9": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E9": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60048</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60048"
+  },
+  "F9": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G9": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H9": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I9": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "l": {
+      "ref": "I9",
+      "id": "rId8",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId8",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A10": {
+    "t": "n",
+    "v": 8,
+    "w": "8"
+  },
+  "B10": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C10": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D10": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E10": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-72439</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-72439"
+  },
+  "F10": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G10": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H10": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I10": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "l": {
+      "ref": "I10",
+      "id": "rId9",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId9",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A11": {
+    "t": "n",
+    "v": 9,
+    "w": "9"
+  },
+  "B11": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C11": {
+    "t": "s",
+    "v": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "r": "<t>2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa</t>",
+    "h": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+    "w": "2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa"
+  },
+  "D11": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E11": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "r": "<t>SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708</t>",
+    "h": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "w": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708"
+  },
+  "F11": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G11": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H11": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I11": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "l": {
+      "ref": "I11",
+      "id": "rId10",
+      "location": "issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/2fed0cab-ecd7-4b65-8bf9-1a8e95ae94aa",
+        "Id": "rId10",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A12": {
+    "t": "n",
+    "v": 10,
+    "w": "10"
+  },
+  "B12": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C12": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D12": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E12": {
+    "t": "s",
+    "v": "03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+    "r": "<t>03dff7e6-0966-4f7c-8e5f-8fb2e89c209c</t>",
+    "h": "03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+    "w": "03dff7e6-0966-4f7c-8e5f-8fb2e89c209c"
+  },
+  "F12": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G12": {
+    "t": "s",
+    "v": "2023-11-27T14:20:16.115Z",
+    "r": "<t>2023-11-27T14:20:16.115Z</t>",
+    "h": "2023-11-27T14:20:16.115Z",
+    "w": "2023-11-27T14:20:16.115Z"
+  },
+  "H12": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I12": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+    "l": {
+      "ref": "I12",
+      "id": "rId11",
+      "location": "issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-03dff7e6-0966-4f7c-8e5f-8fb2e89c209c",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId11",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A13": {
+    "t": "n",
+    "v": 11,
+    "w": "11"
+  },
+  "B13": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C13": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D13": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E13": {
+    "t": "s",
+    "v": "0714691e-3658-43ad-a28f-ec1c48390f9d",
+    "r": "<t>0714691e-3658-43ad-a28f-ec1c48390f9d</t>",
+    "h": "0714691e-3658-43ad-a28f-ec1c48390f9d",
+    "w": "0714691e-3658-43ad-a28f-ec1c48390f9d"
+  },
+  "F13": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G13": {
+    "t": "s",
+    "v": "2023-11-27T14:20:11.622Z",
+    "r": "<t>2023-11-27T14:20:11.622Z</t>",
+    "h": "2023-11-27T14:20:11.622Z",
+    "w": "2023-11-27T14:20:11.622Z"
+  },
+  "H13": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I13": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-0714691e-3658-43ad-a28f-ec1c48390f9d",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-0714691e-3658-43ad-a28f-ec1c48390f9d</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-0714691e-3658-43ad-a28f-ec1c48390f9d",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-0714691e-3658-43ad-a28f-ec1c48390f9d",
+    "l": {
+      "ref": "I13",
+      "id": "rId12",
+      "location": "issue-0714691e-3658-43ad-a28f-ec1c48390f9d",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-0714691e-3658-43ad-a28f-ec1c48390f9d",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId12",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A14": {
+    "t": "n",
+    "v": 12,
+    "w": "12"
+  },
+  "B14": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C14": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D14": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E14": {
+    "t": "s",
+    "v": "1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+    "r": "<t>1aa2a216-d9d0-4365-a2ad-0cb250fa590c</t>",
+    "h": "1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+    "w": "1aa2a216-d9d0-4365-a2ad-0cb250fa590c"
+  },
+  "F14": {
+    "t": "s",
+    "v": "Local File directory path by the user. Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user. Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user. Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user. Path Traversal would only expose what they already have access to."
+  },
+  "G14": {
+    "t": "s",
+    "v": "2023-12-04T16:14:15.825Z",
+    "r": "<t>2023-12-04T16:14:15.825Z</t>",
+    "h": "2023-12-04T16:14:15.825Z",
+    "w": "2023-12-04T16:14:15.825Z"
+  },
+  "H14": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I14": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+    "l": {
+      "ref": "I14",
+      "id": "rId13",
+      "location": "issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-1aa2a216-d9d0-4365-a2ad-0cb250fa590c",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId13",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A15": {
+    "t": "n",
+    "v": 13,
+    "w": "13"
+  },
+  "B15": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C15": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D15": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E15": {
+    "t": "s",
+    "v": "20ac53ee-d92e-4780-8994-90962c66fc1b",
+    "r": "<t>20ac53ee-d92e-4780-8994-90962c66fc1b</t>",
+    "h": "20ac53ee-d92e-4780-8994-90962c66fc1b",
+    "w": "20ac53ee-d92e-4780-8994-90962c66fc1b"
+  },
+  "F15": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G15": {
+    "t": "s",
+    "v": "2023-05-17T12:58:48.037Z",
+    "r": "<t>2023-05-17T12:58:48.037Z</t>",
+    "h": "2023-05-17T12:58:48.037Z",
+    "w": "2023-05-17T12:58:48.037Z"
+  },
+  "H15": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I15": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-20ac53ee-d92e-4780-8994-90962c66fc1b",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-20ac53ee-d92e-4780-8994-90962c66fc1b</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-20ac53ee-d92e-4780-8994-90962c66fc1b",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-20ac53ee-d92e-4780-8994-90962c66fc1b",
+    "l": {
+      "ref": "I15",
+      "id": "rId14",
+      "location": "issue-20ac53ee-d92e-4780-8994-90962c66fc1b",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-20ac53ee-d92e-4780-8994-90962c66fc1b",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId14",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A16": {
+    "t": "n",
+    "v": 14,
+    "w": "14"
+  },
+  "B16": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C16": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D16": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E16": {
+    "t": "s",
+    "v": "249f01c8-3956-4867-9694-bc1864eb44e4",
+    "r": "<t>249f01c8-3956-4867-9694-bc1864eb44e4</t>",
+    "h": "249f01c8-3956-4867-9694-bc1864eb44e4",
+    "w": "249f01c8-3956-4867-9694-bc1864eb44e4"
+  },
+  "F16": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G16": {
+    "t": "s",
+    "v": "2023-11-27T14:20:22.221Z",
+    "r": "<t>2023-11-27T14:20:22.221Z</t>",
+    "h": "2023-11-27T14:20:22.221Z",
+    "w": "2023-11-27T14:20:22.221Z"
+  },
+  "H16": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I16": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-249f01c8-3956-4867-9694-bc1864eb44e4",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-249f01c8-3956-4867-9694-bc1864eb44e4</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-249f01c8-3956-4867-9694-bc1864eb44e4",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-249f01c8-3956-4867-9694-bc1864eb44e4",
+    "l": {
+      "ref": "I16",
+      "id": "rId15",
+      "location": "issue-249f01c8-3956-4867-9694-bc1864eb44e4",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-249f01c8-3956-4867-9694-bc1864eb44e4",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId15",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A17": {
+    "t": "n",
+    "v": 15,
+    "w": "15"
+  },
+  "B17": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C17": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D17": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E17": {
+    "t": "s",
+    "v": "346f25ce-95ff-465c-b199-d0fd7a7559b5",
+    "r": "<t>346f25ce-95ff-465c-b199-d0fd7a7559b5</t>",
+    "h": "346f25ce-95ff-465c-b199-d0fd7a7559b5",
+    "w": "346f25ce-95ff-465c-b199-d0fd7a7559b5"
+  },
+  "F17": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G17": {
+    "t": "s",
+    "v": "2023-05-17T12:59:02.747Z",
+    "r": "<t>2023-05-17T12:59:02.747Z</t>",
+    "h": "2023-05-17T12:59:02.747Z",
+    "w": "2023-05-17T12:59:02.747Z"
+  },
+  "H17": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I17": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-346f25ce-95ff-465c-b199-d0fd7a7559b5",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-346f25ce-95ff-465c-b199-d0fd7a7559b5</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-346f25ce-95ff-465c-b199-d0fd7a7559b5",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-346f25ce-95ff-465c-b199-d0fd7a7559b5",
+    "l": {
+      "ref": "I17",
+      "id": "rId16",
+      "location": "issue-346f25ce-95ff-465c-b199-d0fd7a7559b5",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-346f25ce-95ff-465c-b199-d0fd7a7559b5",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId16",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A18": {
+    "t": "n",
+    "v": 16,
+    "w": "16"
+  },
+  "B18": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C18": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D18": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E18": {
+    "t": "s",
+    "v": "4575ab42-54e3-401b-852c-d096133f868b",
+    "r": "<t>4575ab42-54e3-401b-852c-d096133f868b</t>",
+    "h": "4575ab42-54e3-401b-852c-d096133f868b",
+    "w": "4575ab42-54e3-401b-852c-d096133f868b"
+  },
+  "F18": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G18": {
+    "t": "s",
+    "v": "2023-05-17T12:58:51.281Z",
+    "r": "<t>2023-05-17T12:58:51.281Z</t>",
+    "h": "2023-05-17T12:58:51.281Z",
+    "w": "2023-05-17T12:58:51.281Z"
+  },
+  "H18": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I18": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-4575ab42-54e3-401b-852c-d096133f868b",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-4575ab42-54e3-401b-852c-d096133f868b</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-4575ab42-54e3-401b-852c-d096133f868b",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-4575ab42-54e3-401b-852c-d096133f868b",
+    "l": {
+      "ref": "I18",
+      "id": "rId17",
+      "location": "issue-4575ab42-54e3-401b-852c-d096133f868b",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-4575ab42-54e3-401b-852c-d096133f868b",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId17",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A19": {
+    "t": "n",
+    "v": 17,
+    "w": "17"
+  },
+  "B19": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C19": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D19": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E19": {
+    "t": "s",
+    "v": "606206d6-259e-4e84-991f-9c4669a028b9",
+    "r": "<t>606206d6-259e-4e84-991f-9c4669a028b9</t>",
+    "h": "606206d6-259e-4e84-991f-9c4669a028b9",
+    "w": "606206d6-259e-4e84-991f-9c4669a028b9"
+  },
+  "F19": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G19": {
+    "t": "s",
+    "v": "2023-05-17T12:59:10.342Z",
+    "r": "<t>2023-05-17T12:59:10.342Z</t>",
+    "h": "2023-05-17T12:59:10.342Z",
+    "w": "2023-05-17T12:59:10.342Z"
+  },
+  "H19": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I19": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-606206d6-259e-4e84-991f-9c4669a028b9",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-606206d6-259e-4e84-991f-9c4669a028b9</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-606206d6-259e-4e84-991f-9c4669a028b9",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-606206d6-259e-4e84-991f-9c4669a028b9",
+    "l": {
+      "ref": "I19",
+      "id": "rId18",
+      "location": "issue-606206d6-259e-4e84-991f-9c4669a028b9",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-606206d6-259e-4e84-991f-9c4669a028b9",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId18",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A20": {
+    "t": "n",
+    "v": 18,
+    "w": "18"
+  },
+  "B20": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C20": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D20": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E20": {
+    "t": "s",
+    "v": "6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+    "r": "<t>6b06940e-79b6-4a81-9d26-6a23b9bc46a2</t>",
+    "h": "6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+    "w": "6b06940e-79b6-4a81-9d26-6a23b9bc46a2"
+  },
+  "F20": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G20": {
+    "t": "s",
+    "v": "2023-05-17T12:58:44.612Z",
+    "r": "<t>2023-05-17T12:58:44.612Z</t>",
+    "h": "2023-05-17T12:58:44.612Z",
+    "w": "2023-05-17T12:58:44.612Z"
+  },
+  "H20": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I20": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+    "l": {
+      "ref": "I20",
+      "id": "rId19",
+      "location": "issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-6b06940e-79b6-4a81-9d26-6a23b9bc46a2",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId19",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A21": {
+    "t": "n",
+    "v": 19,
+    "w": "19"
+  },
+  "B21": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C21": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D21": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E21": {
+    "t": "s",
+    "v": "71cbccef-88df-4bff-bf45-8a6985af6bbe",
+    "r": "<t>71cbccef-88df-4bff-bf45-8a6985af6bbe</t>",
+    "h": "71cbccef-88df-4bff-bf45-8a6985af6bbe",
+    "w": "71cbccef-88df-4bff-bf45-8a6985af6bbe"
+  },
+  "F21": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G21": {
+    "t": "s",
+    "v": "2023-05-17T12:59:40.815Z",
+    "r": "<t>2023-05-17T12:59:40.815Z</t>",
+    "h": "2023-05-17T12:59:40.815Z",
+    "w": "2023-05-17T12:59:40.815Z"
+  },
+  "H21": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I21": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-71cbccef-88df-4bff-bf45-8a6985af6bbe",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-71cbccef-88df-4bff-bf45-8a6985af6bbe</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-71cbccef-88df-4bff-bf45-8a6985af6bbe",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-71cbccef-88df-4bff-bf45-8a6985af6bbe",
+    "l": {
+      "ref": "I21",
+      "id": "rId20",
+      "location": "issue-71cbccef-88df-4bff-bf45-8a6985af6bbe",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-71cbccef-88df-4bff-bf45-8a6985af6bbe",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId20",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A22": {
+    "t": "n",
+    "v": 20,
+    "w": "20"
+  },
+  "B22": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C22": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D22": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E22": {
+    "t": "s",
+    "v": "8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+    "r": "<t>8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34</t>",
+    "h": "8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+    "w": "8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34"
+  },
+  "F22": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G22": {
+    "t": "s",
+    "v": "2023-05-17T12:59:13.432Z",
+    "r": "<t>2023-05-17T12:59:13.432Z</t>",
+    "h": "2023-05-17T12:59:13.432Z",
+    "w": "2023-05-17T12:59:13.432Z"
+  },
+  "H22": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I22": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+    "l": {
+      "ref": "I22",
+      "id": "rId21",
+      "location": "issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8c8edc3a-c3d5-4a51-9be3-eba3b94d3a34",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId21",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A23": {
+    "t": "n",
+    "v": 21,
+    "w": "21"
+  },
+  "B23": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C23": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D23": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E23": {
+    "t": "s",
+    "v": "8d151bcd-bbfd-4819-88cd-1186f977b133",
+    "r": "<t>8d151bcd-bbfd-4819-88cd-1186f977b133</t>",
+    "h": "8d151bcd-bbfd-4819-88cd-1186f977b133",
+    "w": "8d151bcd-bbfd-4819-88cd-1186f977b133"
+  },
+  "F23": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G23": {
+    "t": "s",
+    "v": "2023-11-27T14:20:26.401Z",
+    "r": "<t>2023-11-27T14:20:26.401Z</t>",
+    "h": "2023-11-27T14:20:26.401Z",
+    "w": "2023-11-27T14:20:26.401Z"
+  },
+  "H23": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I23": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8d151bcd-bbfd-4819-88cd-1186f977b133",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8d151bcd-bbfd-4819-88cd-1186f977b133</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8d151bcd-bbfd-4819-88cd-1186f977b133",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8d151bcd-bbfd-4819-88cd-1186f977b133",
+    "l": {
+      "ref": "I23",
+      "id": "rId22",
+      "location": "issue-8d151bcd-bbfd-4819-88cd-1186f977b133",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-8d151bcd-bbfd-4819-88cd-1186f977b133",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId22",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A24": {
+    "t": "n",
+    "v": 22,
+    "w": "22"
+  },
+  "B24": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C24": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D24": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E24": {
+    "t": "s",
+    "v": "909e6d27-a27d-40d9-94b4-777fcb205f98",
+    "r": "<t>909e6d27-a27d-40d9-94b4-777fcb205f98</t>",
+    "h": "909e6d27-a27d-40d9-94b4-777fcb205f98",
+    "w": "909e6d27-a27d-40d9-94b4-777fcb205f98"
+  },
+  "F24": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G24": {
+    "t": "s",
+    "v": "2023-11-27T14:20:31.812Z",
+    "r": "<t>2023-11-27T14:20:31.812Z</t>",
+    "h": "2023-11-27T14:20:31.812Z",
+    "w": "2023-11-27T14:20:31.812Z"
+  },
+  "H24": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I24": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-909e6d27-a27d-40d9-94b4-777fcb205f98",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-909e6d27-a27d-40d9-94b4-777fcb205f98</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-909e6d27-a27d-40d9-94b4-777fcb205f98",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-909e6d27-a27d-40d9-94b4-777fcb205f98",
+    "l": {
+      "ref": "I24",
+      "id": "rId23",
+      "location": "issue-909e6d27-a27d-40d9-94b4-777fcb205f98",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-909e6d27-a27d-40d9-94b4-777fcb205f98",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId23",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A25": {
+    "t": "n",
+    "v": 23,
+    "w": "23"
+  },
+  "B25": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C25": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D25": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E25": {
+    "t": "s",
+    "v": "9f937395-8f47-4f92-9e8b-4941b4cd6426",
+    "r": "<t>9f937395-8f47-4f92-9e8b-4941b4cd6426</t>",
+    "h": "9f937395-8f47-4f92-9e8b-4941b4cd6426",
+    "w": "9f937395-8f47-4f92-9e8b-4941b4cd6426"
+  },
+  "F25": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G25": {
+    "t": "s",
+    "v": "2023-05-17T12:59:05.760Z",
+    "r": "<t>2023-05-17T12:59:05.760Z</t>",
+    "h": "2023-05-17T12:59:05.760Z",
+    "w": "2023-05-17T12:59:05.760Z"
+  },
+  "H25": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I25": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-9f937395-8f47-4f92-9e8b-4941b4cd6426",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-9f937395-8f47-4f92-9e8b-4941b4cd6426</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-9f937395-8f47-4f92-9e8b-4941b4cd6426",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-9f937395-8f47-4f92-9e8b-4941b4cd6426",
+    "l": {
+      "ref": "I25",
+      "id": "rId24",
+      "location": "issue-9f937395-8f47-4f92-9e8b-4941b4cd6426",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-9f937395-8f47-4f92-9e8b-4941b4cd6426",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId24",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A26": {
+    "t": "n",
+    "v": 24,
+    "w": "24"
+  },
+  "B26": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C26": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D26": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E26": {
+    "t": "s",
+    "v": "a6e458a4-e186-4f13-82e9-2f927363360c",
+    "r": "<t>a6e458a4-e186-4f13-82e9-2f927363360c</t>",
+    "h": "a6e458a4-e186-4f13-82e9-2f927363360c",
+    "w": "a6e458a4-e186-4f13-82e9-2f927363360c"
+  },
+  "F26": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G26": {
+    "t": "s",
+    "v": "2023-05-17T12:59:19.129Z",
+    "r": "<t>2023-05-17T12:59:19.129Z</t>",
+    "h": "2023-05-17T12:59:19.129Z",
+    "w": "2023-05-17T12:59:19.129Z"
+  },
+  "H26": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I26": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a6e458a4-e186-4f13-82e9-2f927363360c",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a6e458a4-e186-4f13-82e9-2f927363360c</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a6e458a4-e186-4f13-82e9-2f927363360c",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a6e458a4-e186-4f13-82e9-2f927363360c",
+    "l": {
+      "ref": "I26",
+      "id": "rId25",
+      "location": "issue-a6e458a4-e186-4f13-82e9-2f927363360c",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a6e458a4-e186-4f13-82e9-2f927363360c",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId25",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A27": {
+    "t": "n",
+    "v": 25,
+    "w": "25"
+  },
+  "B27": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C27": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D27": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E27": {
+    "t": "s",
+    "v": "a828ce12-0996-46e7-89ca-8970c8f905c5",
+    "r": "<t>a828ce12-0996-46e7-89ca-8970c8f905c5</t>",
+    "h": "a828ce12-0996-46e7-89ca-8970c8f905c5",
+    "w": "a828ce12-0996-46e7-89ca-8970c8f905c5"
+  },
+  "F27": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G27": {
+    "t": "s",
+    "v": "2023-05-17T12:59:22.290Z",
+    "r": "<t>2023-05-17T12:59:22.290Z</t>",
+    "h": "2023-05-17T12:59:22.290Z",
+    "w": "2023-05-17T12:59:22.290Z"
+  },
+  "H27": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I27": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a828ce12-0996-46e7-89ca-8970c8f905c5",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a828ce12-0996-46e7-89ca-8970c8f905c5</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a828ce12-0996-46e7-89ca-8970c8f905c5",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a828ce12-0996-46e7-89ca-8970c8f905c5",
+    "l": {
+      "ref": "I27",
+      "id": "rId26",
+      "location": "issue-a828ce12-0996-46e7-89ca-8970c8f905c5",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-a828ce12-0996-46e7-89ca-8970c8f905c5",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId26",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A28": {
+    "t": "n",
+    "v": 26,
+    "w": "26"
+  },
+  "B28": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C28": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D28": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E28": {
+    "t": "s",
+    "v": "b473d5d9-9517-4f7e-a933-7f064b49274c",
+    "r": "<t>b473d5d9-9517-4f7e-a933-7f064b49274c</t>",
+    "h": "b473d5d9-9517-4f7e-a933-7f064b49274c",
+    "w": "b473d5d9-9517-4f7e-a933-7f064b49274c"
+  },
+  "F28": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G28": {
+    "t": "s",
+    "v": "2023-05-17T12:58:54.329Z",
+    "r": "<t>2023-05-17T12:58:54.329Z</t>",
+    "h": "2023-05-17T12:58:54.329Z",
+    "w": "2023-05-17T12:58:54.329Z"
+  },
+  "H28": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I28": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-b473d5d9-9517-4f7e-a933-7f064b49274c",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-b473d5d9-9517-4f7e-a933-7f064b49274c</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-b473d5d9-9517-4f7e-a933-7f064b49274c",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-b473d5d9-9517-4f7e-a933-7f064b49274c",
+    "l": {
+      "ref": "I28",
+      "id": "rId27",
+      "location": "issue-b473d5d9-9517-4f7e-a933-7f064b49274c",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-b473d5d9-9517-4f7e-a933-7f064b49274c",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId27",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A29": {
+    "t": "n",
+    "v": 27,
+    "w": "27"
+  },
+  "B29": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C29": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D29": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E29": {
+    "t": "s",
+    "v": "ba659dc2-9e2d-41ee-b484-b811b447214f",
+    "r": "<t>ba659dc2-9e2d-41ee-b484-b811b447214f</t>",
+    "h": "ba659dc2-9e2d-41ee-b484-b811b447214f",
+    "w": "ba659dc2-9e2d-41ee-b484-b811b447214f"
+  },
+  "F29": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G29": {
+    "t": "s",
+    "v": "2023-11-27T14:20:39.118Z",
+    "r": "<t>2023-11-27T14:20:39.118Z</t>",
+    "h": "2023-11-27T14:20:39.118Z",
+    "w": "2023-11-27T14:20:39.118Z"
+  },
+  "H29": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I29": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-ba659dc2-9e2d-41ee-b484-b811b447214f",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-ba659dc2-9e2d-41ee-b484-b811b447214f</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-ba659dc2-9e2d-41ee-b484-b811b447214f",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-ba659dc2-9e2d-41ee-b484-b811b447214f",
+    "l": {
+      "ref": "I29",
+      "id": "rId28",
+      "location": "issue-ba659dc2-9e2d-41ee-b484-b811b447214f",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-ba659dc2-9e2d-41ee-b484-b811b447214f",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId28",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A30": {
+    "t": "n",
+    "v": 28,
+    "w": "28"
+  },
+  "B30": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C30": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D30": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E30": {
+    "t": "s",
+    "v": "be188217-eafc-4e67-b0ef-b98e22beb122",
+    "r": "<t>be188217-eafc-4e67-b0ef-b98e22beb122</t>",
+    "h": "be188217-eafc-4e67-b0ef-b98e22beb122",
+    "w": "be188217-eafc-4e67-b0ef-b98e22beb122"
+  },
+  "F30": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G30": {
+    "t": "s",
+    "v": "2023-05-17T12:58:41.025Z",
+    "r": "<t>2023-05-17T12:58:41.025Z</t>",
+    "h": "2023-05-17T12:58:41.025Z",
+    "w": "2023-05-17T12:58:41.025Z"
+  },
+  "H30": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I30": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be188217-eafc-4e67-b0ef-b98e22beb122",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be188217-eafc-4e67-b0ef-b98e22beb122</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be188217-eafc-4e67-b0ef-b98e22beb122",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be188217-eafc-4e67-b0ef-b98e22beb122",
+    "l": {
+      "ref": "I30",
+      "id": "rId29",
+      "location": "issue-be188217-eafc-4e67-b0ef-b98e22beb122",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be188217-eafc-4e67-b0ef-b98e22beb122",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId29",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A31": {
+    "t": "n",
+    "v": 29,
+    "w": "29"
+  },
+  "B31": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C31": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D31": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E31": {
+    "t": "s",
+    "v": "be85fa00-07eb-4385-9911-e769ae802dbd",
+    "r": "<t>be85fa00-07eb-4385-9911-e769ae802dbd</t>",
+    "h": "be85fa00-07eb-4385-9911-e769ae802dbd",
+    "w": "be85fa00-07eb-4385-9911-e769ae802dbd"
+  },
+  "F31": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G31": {
+    "t": "s",
+    "v": "2023-05-17T12:59:25.752Z",
+    "r": "<t>2023-05-17T12:59:25.752Z</t>",
+    "h": "2023-05-17T12:59:25.752Z",
+    "w": "2023-05-17T12:59:25.752Z"
+  },
+  "H31": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I31": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be85fa00-07eb-4385-9911-e769ae802dbd",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be85fa00-07eb-4385-9911-e769ae802dbd</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be85fa00-07eb-4385-9911-e769ae802dbd",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be85fa00-07eb-4385-9911-e769ae802dbd",
+    "l": {
+      "ref": "I31",
+      "id": "rId30",
+      "location": "issue-be85fa00-07eb-4385-9911-e769ae802dbd",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-be85fa00-07eb-4385-9911-e769ae802dbd",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId30",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A32": {
+    "t": "n",
+    "v": 30,
+    "w": "30"
+  },
+  "B32": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C32": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D32": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E32": {
+    "t": "s",
+    "v": "cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+    "r": "<t>cc6aaad7-fbff-46b0-bd58-4070abe4369f</t>",
+    "h": "cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+    "w": "cc6aaad7-fbff-46b0-bd58-4070abe4369f"
+  },
+  "F32": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G32": {
+    "t": "s",
+    "v": "2023-05-17T12:59:16.419Z",
+    "r": "<t>2023-05-17T12:59:16.419Z</t>",
+    "h": "2023-05-17T12:59:16.419Z",
+    "w": "2023-05-17T12:59:16.419Z"
+  },
+  "H32": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I32": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+    "l": {
+      "ref": "I32",
+      "id": "rId31",
+      "location": "issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-cc6aaad7-fbff-46b0-bd58-4070abe4369f",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId31",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A33": {
+    "t": "n",
+    "v": 31,
+    "w": "31"
+  },
+  "B33": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C33": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D33": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E33": {
+    "t": "s",
+    "v": "deea810a-2113-40fe-8693-20a284c6f3e8",
+    "r": "<t>deea810a-2113-40fe-8693-20a284c6f3e8</t>",
+    "h": "deea810a-2113-40fe-8693-20a284c6f3e8",
+    "w": "deea810a-2113-40fe-8693-20a284c6f3e8"
+  },
+  "F33": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G33": {
+    "t": "s",
+    "v": "2023-11-27T14:20:42.971Z",
+    "r": "<t>2023-11-27T14:20:42.971Z</t>",
+    "h": "2023-11-27T14:20:42.971Z",
+    "w": "2023-11-27T14:20:42.971Z"
+  },
+  "H33": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I33": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-deea810a-2113-40fe-8693-20a284c6f3e8",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-deea810a-2113-40fe-8693-20a284c6f3e8</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-deea810a-2113-40fe-8693-20a284c6f3e8",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-deea810a-2113-40fe-8693-20a284c6f3e8",
+    "l": {
+      "ref": "I33",
+      "id": "rId32",
+      "location": "issue-deea810a-2113-40fe-8693-20a284c6f3e8",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-deea810a-2113-40fe-8693-20a284c6f3e8",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId32",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A34": {
+    "t": "n",
+    "v": 32,
+    "w": "32"
+  },
+  "B34": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C34": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D34": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E34": {
+    "t": "s",
+    "v": "f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+    "r": "<t>f31ec812-872c-44f9-a5c3-fffa9f4ad5ca</t>",
+    "h": "f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+    "w": "f31ec812-872c-44f9-a5c3-fffa9f4ad5ca"
+  },
+  "F34": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G34": {
+    "t": "s",
+    "v": "2023-11-27T14:20:35.472Z",
+    "r": "<t>2023-11-27T14:20:35.472Z</t>",
+    "h": "2023-11-27T14:20:35.472Z",
+    "w": "2023-11-27T14:20:35.472Z"
+  },
+  "H34": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I34": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+    "l": {
+      "ref": "I34",
+      "id": "rId33",
+      "location": "issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f31ec812-872c-44f9-a5c3-fffa9f4ad5ca",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId33",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A35": {
+    "t": "n",
+    "v": 33,
+    "w": "33"
+  },
+  "B35": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C35": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D35": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E35": {
+    "t": "s",
+    "v": "f7ca8396-80bd-418d-9263-0f09d36e770c",
+    "r": "<t>f7ca8396-80bd-418d-9263-0f09d36e770c</t>",
+    "h": "f7ca8396-80bd-418d-9263-0f09d36e770c",
+    "w": "f7ca8396-80bd-418d-9263-0f09d36e770c"
+  },
+  "F35": {
+    "t": "s",
+    "v": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "r": "<t>Local File directory path by the user.  Path Traversal would only expose what they already have access to.</t>",
+    "h": "Local File directory path by the user.  Path Traversal would only expose what they already have access to.",
+    "w": "Local File directory path by the user.  Path Traversal would only expose what they already have access to."
+  },
+  "G35": {
+    "t": "s",
+    "v": "2023-05-17T12:58:59.734Z",
+    "r": "<t>2023-05-17T12:58:59.734Z</t>",
+    "h": "2023-05-17T12:58:59.734Z",
+    "w": "2023-05-17T12:58:59.734Z"
+  },
+  "H35": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I35": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f7ca8396-80bd-418d-9263-0f09d36e770c",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f7ca8396-80bd-418d-9263-0f09d36e770c</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f7ca8396-80bd-418d-9263-0f09d36e770c",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f7ca8396-80bd-418d-9263-0f09d36e770c",
+    "l": {
+      "ref": "I35",
+      "id": "rId34",
+      "location": "issue-f7ca8396-80bd-418d-9263-0f09d36e770c",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-f7ca8396-80bd-418d-9263-0f09d36e770c",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId34",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A36": {
+    "t": "n",
+    "v": 34,
+    "w": "34"
+  },
+  "B36": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C36": {
+    "t": "s",
+    "v": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "r": "<t>d0b038aa-5e05-4354-8f59-94eb8e766670</t>",
+    "h": "d0b038aa-5e05-4354-8f59-94eb8e766670",
+    "w": "d0b038aa-5e05-4354-8f59-94eb8e766670"
+  },
+  "D36": {
+    "t": "s",
+    "v": "code",
+    "r": "<t>code</t>",
+    "h": "code",
+    "w": "code"
+  },
+  "E36": {
+    "t": "s",
+    "v": "fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+    "r": "<t>fc1b668b-1c9e-4d86-804f-f8df56f2a816</t>",
+    "h": "fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+    "w": "fc1b668b-1c9e-4d86-804f-f8df56f2a816"
+  },
+  "F36": {
+    "t": "s",
+    "v": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "r": "<t>Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.</t>",
+    "h": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC.",
+    "w": "Every instance of the app uses a database created locally.  No risk as user already has full database access on their PC."
+  },
+  "G36": {
+    "t": "s",
+    "v": "2023-11-27T14:20:06.043Z",
+    "r": "<t>2023-11-27T14:20:06.043Z</t>",
+    "h": "2023-11-27T14:20:06.043Z",
+    "w": "2023-11-27T14:20:06.043Z"
+  },
+  "H36": {
+    "t": "s",
+    "v": "Mitchell.Anderson@yum.com",
+    "r": "<t>Mitchell.Anderson@yum.com</t>",
+    "h": "Mitchell.Anderson@yum.com",
+    "w": "Mitchell.Anderson@yum.com"
+  },
+  "I36": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+    "l": {
+      "ref": "I36",
+      "id": "rId35",
+      "location": "issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670#issue-fc1b668b-1c9e-4d86-804f-f8df56f2a816",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/d0b038aa-5e05-4354-8f59-94eb8e766670",
+        "Id": "rId35",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A37": {
+    "t": "n",
+    "v": 35,
+    "w": "35"
+  },
+  "B37": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C37": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D37": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E37": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SSHNET-2849638",
+    "r": "<t>SNYK-DOTNET-SSHNET-2849638</t>",
+    "h": "SNYK-DOTNET-SSHNET-2849638",
+    "w": "SNYK-DOTNET-SSHNET-2849638"
+  },
+  "F37": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G37": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H37": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I37": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SSHNET-2849638",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SSHNET-2849638</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SSHNET-2849638",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SSHNET-2849638",
+    "l": {
+      "ref": "I37",
+      "id": "rId36",
+      "location": "issue-SNYK-DOTNET-SSHNET-2849638",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SSHNET-2849638",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId36",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A38": {
+    "t": "n",
+    "v": 36,
+    "w": "36"
+  },
+  "B38": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C38": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D38": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E38": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60045</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60045"
+  },
+  "F38": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G38": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H38": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I38": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+    "l": {
+      "ref": "I38",
+      "id": "rId37",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60045",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId37",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A39": {
+    "t": "n",
+    "v": 37,
+    "w": "37"
+  },
+  "B39": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C39": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D39": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E39": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60046</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60046"
+  },
+  "F39": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G39": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H39": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I39": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+    "l": {
+      "ref": "I39",
+      "id": "rId38",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60046",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId38",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A40": {
+    "t": "n",
+    "v": 38,
+    "w": "38"
+  },
+  "B40": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C40": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D40": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E40": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60047</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60047"
+  },
+  "F40": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G40": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H40": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I40": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+    "l": {
+      "ref": "I40",
+      "id": "rId39",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60047",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId39",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A41": {
+    "t": "n",
+    "v": 39,
+    "w": "39"
+  },
+  "B41": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C41": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D41": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E41": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-60048</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-60048"
+  },
+  "F41": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G41": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H41": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I41": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+    "l": {
+      "ref": "I41",
+      "id": "rId40",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-60048",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId40",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A42": {
+    "t": "n",
+    "v": 40,
+    "w": "40"
+  },
+  "B42": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C42": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D42": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E42": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "r": "<t>SNYK-DOTNET-SYSTEMNETHTTP-72439</t>",
+    "h": "SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "w": "SNYK-DOTNET-SYSTEMNETHTTP-72439"
+  },
+  "F42": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G42": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H42": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I42": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+    "l": {
+      "ref": "I42",
+      "id": "rId41",
+      "location": "issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMNETHTTP-72439",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId41",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "A43": {
+    "t": "n",
+    "v": 41,
+    "w": "41"
+  },
+  "B43": {
+    "t": "s",
+    "v": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "r": "<t>a88eddb1-4541-4a3b-8afe-6b56a44119e0</t>",
+    "h": "a88eddb1-4541-4a3b-8afe-6b56a44119e0",
+    "w": "a88eddb1-4541-4a3b-8afe-6b56a44119e0"
+  },
+  "C43": {
+    "t": "s",
+    "v": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "r": "<t>ff1c8d0e-b0c4-44d6-85e1-df735175de51</t>",
+    "h": "ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+    "w": "ff1c8d0e-b0c4-44d6-85e1-df735175de51"
+  },
+  "D43": {
+    "t": "s",
+    "v": "package_vulnerability",
+    "r": "<t>package_vulnerability</t>",
+    "h": "package_vulnerability",
+    "w": "package_vulnerability"
+  },
+  "E43": {
+    "t": "s",
+    "v": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "r": "<t>SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708</t>",
+    "h": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "w": "SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708"
+  },
+  "F43": {
+    "t": "s",
+    "v": "Ignored by Policy",
+    "r": "<t>Ignored by Policy</t>",
+    "h": "Ignored by Policy",
+    "w": "Ignored by Policy"
+  },
+  "G43": {
+    "t": "s",
+    "v": "n/a",
+    "r": "<t>n/a</t>",
+    "h": "n/a",
+    "w": "n/a"
+  },
+  "H43": {
+    "t": "s",
+    "v": "Policy",
+    "r": "<t>Policy</t>",
+    "h": "Policy",
+    "w": "Policy"
+  },
+  "I43": {
+    "t": "s",
+    "v": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "r": "<t>https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708</t>",
+    "h": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "w": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+    "l": {
+      "ref": "I43",
+      "id": "rId42",
+      "location": "issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+      "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51#issue-SNYK-DOTNET-SYSTEMTEXTREGULAREXPRESSIONS-174708",
+      "Rel": {
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://app.snyk.io/org/kfc-help-desk/project/ff1c8d0e-b0c4-44d6-85e1-df735175de51",
+        "Id": "rId42",
+        "TargetMode": "External"
+      }
+    }
+  },
+  "!margins": {
+    "left": 0.7,
+    "right": 0.7,
+    "top": 0.75,
+    "bottom": 0.75,
+    "header": 0.3,
+    "footer": 0.3
+  }
+}
